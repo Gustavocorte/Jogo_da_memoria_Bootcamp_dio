@@ -12,4 +12,4 @@ Implementei também algumas funcionalidades extras:
 
 
 
-#### Demo: [Jogo da Memória]([https://www.adivision.com.br/projetos/javascript/jogo-da-memoria/](https://gustavocorte.github.io/Jogo_da_memoria_Bootcamp_dio/) "Jogo da Memória")
+#### Demo: [Jogo da Memória](https://gustavocorte.github.io/Jogo_da_memoria_Bootcamp_dio/ "Jogo da Memória")
