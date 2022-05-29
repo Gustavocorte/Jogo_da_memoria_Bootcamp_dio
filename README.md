@@ -4,7 +4,7 @@
 
 O desafio de projeto era desenvolver um jogo da memória em javascript.
 
-Implementei também algumas funcionalidades extras:
+Implementei também algumas outras funcionalidades:
 
 1.  Contador de tentativas, que exibe quantas tentativas foram necessárias para finalizar o jogo.
 2.  Botão "Desistir", que revela todas as cartas e exibe a mensagem de desistência.
